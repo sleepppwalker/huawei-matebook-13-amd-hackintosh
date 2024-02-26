@@ -1,4 +1,9 @@
 # EFI for Huawei MateBook 13 AMD
+
+
+# This EFI you use it at your own risk!
+
+
 OS works - Monterey, Sonoma (with kernel panic - https://github.com/ChefKissInc/NootedRed/issues/186 )
 
 Issue: 
