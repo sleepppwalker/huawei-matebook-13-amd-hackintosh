@@ -3,3 +3,8 @@ OS works - Monterey, Sonoma (with kernel panic - https://github.com/ChefKissInc/
 
 Issue: 
 I have an intel ax210, I haven't tried it with the factory wifi adapter
+
+Works:
+Sleep
+WIFI and BT
+Factory dongle with HDMI, but need NootedRed.kext
