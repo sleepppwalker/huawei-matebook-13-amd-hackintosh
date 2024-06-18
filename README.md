@@ -13,3 +13,7 @@ Works:
 Sleep,
 WIFI and BT.
 Factory dongle with HDMI, but need NootedRed.kext
+
+What doesnt work:
+WebCamera :)
+
