@@ -17,3 +17,4 @@ Factory dongle with HDMI, but need NootedRed.kext
 What doesnt work:
 WebCamera :)
 
+Any way with latest kext NootedRed, works Photoshop, Krita and etc. But! - Google Chrome have a artefacts.
